@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 ###############手动修改##############
-name: BPI-R3MINI-hanwckf
+name: 360-T7-256M-hanwckf
 
 on:
   repository_dispatch:
